@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<title>Module 2 - Task 2.2 - Activity 7, Frederiks HTML page</title>
+<body>
+
+<h3>Hello</h3>
+<h1 style="color:red;">Frederik</h1>
+
+</body>
+<html>
